@@ -1,0 +1,42 @@
+ros-indigo-smarthome-heater-msgs-java (0.1.21-0saucy) saucy; urgency=high
+
+  * Add roslib to packages dependencies
+  * Add rosjava_messages to package dependencies
+  * Add rosdistro dependency (needed by genjava)
+  * Contributors: Erwan Le Huitouze
+
+ -- Mickaël Gaillard <mick.gaillard@gmail.com>  Fri, 03 Jun 2016 22:00:00 -0000
+
+ros-indigo-smarthome-heater-msgs-java (0.1.20-0saucy) saucy; urgency=high
+
+  * Change package generation to genjava
+  * Contributors: Erwan Le Huitouze
+
+ -- Mickaël Gaillard <mick.gaillard@gmail.com>  Tue, 31 May 2016 22:00:00 -0000
+
+ros-indigo-smarthome-heater-msgs-java (0.1.19-0saucy) saucy; urgency=high
+
+  * Rename package to smarthome_heater_msgs_java
+  * Update catkin dependencies
+  * Add license
+  * Update package file description
+  * Contributors: Alfred Team, Erwan Le Huitouze
+
+ -- Mickaël Gaillard <mick.gaillard@gmail.com>  Mon, 30 May 2016 22:00:00 -0000
+
+ros-indigo-smarthome-heater-msgs-java (0.1.10-0saucy) saucy; urgency=high
+
+  * Change package name
+  * Update CMake files
+  * Contributors: Erwan Le Huitouze
+
+ -- Mickaël Gaillard <mick.gaillard@gmail.com>  Sat, 24 Oct 2015 11:46:00 -0000
+
+ros-indigo-smarthome-heater-msgs-java (0.1.9-0saucy) saucy; urgency=high
+
+  * Add heater msgs java
+  * Contributors: Erwan Le Huitouze
+
+ -- Mickaël Gaillard <mick.gaillard@gmail.com>  Sat, 04 Apr 2015 22:00:00 -0000
+
+
